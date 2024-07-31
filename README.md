@@ -1,2 +1,2 @@
-# SQL-Project
-Analyzing the trends in the used car market
+# Analyzing Trends in the Used Car Market using SQL
+This project analyzes the used car market trends using SQL to extract, clean, and analyze data from a comprehensive dataset. The focus is on identifying key patterns and trends, such as price fluctuations, popular car models, and regional market differences. Insights are derived from various SQL queries, including data aggregation, filtering, and advanced analytics. The project showcases proficiency in SQL and provides valuable insights into market dynamics for stakeholders and enthusiasts.
